@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 # Welcome
 
-discord
+Join our discord here: https://discord.gg/wqRjd6xYrW
